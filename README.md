@@ -66,7 +66,7 @@ This project focuses on designing and implementing a **4-bit Ripple Carry Adder 
   - 4-bit Ripple Carry Adder (`rca_4.vhd`)
 - Testbenches
 - Timing Diagrams (simulated waveforms)
-- Lab Report (with truth tables, Boolean simplifications, and observations)
+
 
 ---
 
